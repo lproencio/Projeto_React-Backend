@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "name": "Adao Primeiro",
+      "email": "adao@primeiro.com",
+      "id": 1
+    },
+    {
+      "name": "Bianca Novaes",
+      "email": "bianca@novaes.com",
+      "id": 2
+    }
+  ]
+}
